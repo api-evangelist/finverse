@@ -9,11 +9,11 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - API Aggregation
+  - Asia Pacific
+  - Financial Data
   - Open Banking
   - Open Finance
-  - Financial Data
   - Payments
-  - Asia Pacific
   - Unified API
 url: >-
   https://raw.githubusercontent.com/api-evangelist/finverse/refs/heads/main/apis.yml
@@ -30,11 +30,11 @@ apis:
       bank statements, account holder identity, and estimated income.
     humanURL: https://www.finverse.com/bank-data-api
     tags:
-      - Open Banking
-      - Financial Data
       - Bank Accounts
-      - Transactions
+      - Financial Data
       - KYC
+      - Open Banking
+      - Transactions
     properties:
       - type: Documentation
         url: https://docs.finverse.com
@@ -49,10 +49,10 @@ apis:
       transfers.
     humanURL: https://www.finverse.com/payments-api
     tags:
-      - Payments
-      - Open Banking
       - Bank Transfers
+      - Open Banking
       - Payment Collection
+      - Payments
     properties:
       - type: Documentation
         url: https://docs.finverse.com
