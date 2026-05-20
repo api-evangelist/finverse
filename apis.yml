@@ -59,6 +59,10 @@ apis:
       - type: Website
         url: https://www.finverse.com/payments-api
 common:
+  - type: GitHubOrganization
+    url: https://github.com/finversetech
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/finverse
   - type: Website
     url: https://www.finverse.com
   - type: Documentation
