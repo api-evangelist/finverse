@@ -67,7 +67,7 @@ common:
     url: https://www.finverse.com
   - type: Documentation
     url: https://docs.finverse.com
-  - type: Developer Portal
+  - type: DeveloperPortal
     url: https://dashboard.finverse.com
   - type: Support Email
     url: mailto:support@finverse.com
