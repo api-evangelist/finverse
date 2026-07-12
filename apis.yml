@@ -59,6 +59,8 @@ apis:
       - type: Website
         url: https://www.finverse.com/payments-api
 common:
+  - type: DomainSecurity
+    url: security/finverse-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/finversetech
   - type: LinkedIn
@@ -73,6 +75,8 @@ common:
     url: mailto:support@finverse.com
   - type: Payment Links
     url: https://www.finverse.com/payment-links
+  - type: Blog
+    url: https://www.finverse.com/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
