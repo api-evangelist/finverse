@@ -6,7 +6,19 @@ description: >-
   described as the Plaid for Asia, it connects to over 40 banks across Hong
   Kong, Singapore, Philippines, Vietnam, and other Southeast Asian markets.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/finverse.png
 tags:
   - API Aggregation
   - Asia Pacific
