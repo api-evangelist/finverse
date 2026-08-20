@@ -26,6 +26,14 @@ tags:
   - Open Banking
   - Open Finance
   - Payments
+  - Unified-API
+tags_raw:
+  - API Aggregation
+  - Asia Pacific
+  - Financial Data
+  - Open Banking
+  - Open Finance
+  - Payments
   - Unified API
 url: >-
   https://raw.githubusercontent.com/api-evangelist/finverse/refs/heads/main/apis.yml
@@ -42,6 +50,12 @@ apis:
       bank statements, account holder identity, and estimated income.
     humanURL: https://www.finverse.com/bank-data-api
     tags:
+      - Bank Accounts
+      - Financial Data
+      - KYC
+      - Open Banking
+      - Transaction
+    tags_raw:
       - Bank Accounts
       - Financial Data
       - KYC
