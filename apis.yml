@@ -30,6 +30,9 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/finverse.png
+x-docs-platform: postman
+x-docs-platform-confidence: high
+x-docs-platform-checked: 2026-10-03
 tags:
   - API Aggregation
   - Asia Pacific
@@ -37,7 +40,7 @@ tags:
   - Open Banking
   - Open Finance
   - Payments
-  - Unified-API
+  - Unified API
 tags_raw:
   - API Aggregation
   - Asia Pacific
@@ -46,6 +49,7 @@ tags_raw:
   - Open Finance
   - Payments
   - Unified API
+  - Unified-API
 url: >-
   https://raw.githubusercontent.com/api-evangelist/finverse/refs/heads/main/apis.yml
 created: '2026-03-26'
