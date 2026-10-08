@@ -100,6 +100,12 @@ apis:
       - type: Website
         url: https://www.finverse.com/payments-api
 common:
+  - type: Plans
+    url: plans/finverse-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/finverse-rate-limits.yml
+  - type: FinOps
+    url: finops/finverse-finops.yml
   - type: DomainSecurity
     url: security/finverse-domain-security.yml
   - type: GitHubOrganization
