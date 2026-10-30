@@ -1,4 +1,4 @@
-# Finverse (finverse)
+# Finverse
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,61 +66,103 @@
 
 Finverse is a unified open finance API platform providing aggregated access to banking data, payments, and financial services across Asia-Pacific. Often described as the Plaid for Asia, it connects to over 40 banks across Hong Kong, Singapore, Philippines, Vietnam, and other Southeast Asian markets.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/finverse/refs/heads/main/apis.yml)
+**Areas:** API Aggregation · Asia Pacific · Financial Data · Open Banking · Open Finance · Payments · Unified API
 
-## Scope
+## Finverse on APIs.io
 
-- **Type:** Index
+Everything profiled for Finverse is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/finverse/](https://apis.io/providers/finverse/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (2)
 
- - API Aggregation, Asia Pacific, Financial Data, Open Banking, Open Finance, Payments, Unified API
+- [Finverse Bank Data API](https://apis.io/apis/finverse/bank-data-api/) — Retrieve real-time financial account information with user consent from over 40 Asian banks. Returns key financial data including real-time account…
+- [Finverse Collect API](https://apis.io/apis/finverse/payments-api/) — Automate bank payment collection in Hong Kong and Singapore. Enable customers to pay directly from their bank accounts, cutting transaction fees by up to…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-26
-- **Modified:** 2026-03-26
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Finverse Bank Data API
-Retrieve real-time financial account information with user consent from over 40 Asian banks. Returns key financial data including real-time account balances, transaction and balance history for up to 24 months, bank statements, account holder identity, and estimated income.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://www.finverse.com/bank-data-api](https://www.finverse.com/bank-data-api)
+- [Finverse Domain Security](https://apis.io/security/finverse/finverse-domain-security/)
 
-#### Tags:
+#### Plans and pricing (1)
 
- - Bank Accounts, Financial Data, KYC, Open Banking, Transactions
+Published plans, tiers and prices.
 
-#### Properties
+- [Finverse Plans Pricing](https://apis.io/plans/finverse/finverse-plans-pricing/)
 
-- [Documentation](https://docs.finverse.com)
-- [Website](https://www.finverse.com/bank-data-api)
+#### Rate limits (1)
 
-### Finverse Collect API
-Automate bank payment collection in Hong Kong and Singapore. Enable customers to pay directly from their bank accounts, cutting transaction fees by up to 85%. Supports payment links, mandates, and direct bank transfers.
+Published request limits.
 
-**Human URL:** [https://www.finverse.com/payments-api](https://www.finverse.com/payments-api)
+- [Finverse Rate Limits](https://apis.io/rate-limits/finverse/finverse-rate-limits/)
 
-#### Tags:
+#### FinOps (1)
 
- - Bank Transfers, Open Banking, Payment Collection, Payments
+What the API costs to run, by operation.
 
-#### Properties
+- [Finverse Finops](https://apis.io/finops/finverse/finverse-finops/)
 
-- [Documentation](https://docs.finverse.com)
-- [Website](https://www.finverse.com/payments-api)
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.finverse.com)
 - [Documentation](https://docs.finverse.com)
-- [Developer Portal](https://dashboard.finverse.com)
-- [Support Email](mailto:support@finverse.com)
-- [Payment Links](https://www.finverse.com/payment-links)
+- [Blog](https://www.finverse.com/blog)
+- [GitHub](https://github.com/finversetech)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 8.7** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/finverse/](https://apis.io/providers/finverse/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Finverse: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/finverse/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
